@@ -1,5 +1,5 @@
 {
-  "name": "is-valid-json",
+  "name": "is-valid-json-data",
   "version": "1.0.0",
   "description": "Checks if JSON is valid or not",
   "main": "index.js",
